@@ -1,5 +1,5 @@
 ;;;; time-ext.el --- more function for time/date
-;; Time-stamp: <2010-05-16 09:38:01 rubikitch>
+;; Time-stamp: <2010-05-16 09:40:38 rubikitch>
 
 ;; Copyright (C) 2010  rubikitch
 
@@ -24,7 +24,9 @@
 
 ;;; Commentary:
 ;;
-;; 
+;; More easy-to-use time/date functions. Using polymorphism,
+;; TIME accepts (T1 T2 T3), (SEC MINUTE HOUR DAY MONTH YEAR DOW DST ZONE) and
+;; float time.
 
 ;;; Bug Report:
 ;;
