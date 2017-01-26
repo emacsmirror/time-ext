@@ -1,4 +1,4 @@
-;;;; time-ext.el --- more function for time/date
+;;; time-ext.el --- more function for time/date
 ;; Time-stamp: <2010-05-16 09:40:38 rubikitch>
 
 ;; Copyright (C) 2010  rubikitch
